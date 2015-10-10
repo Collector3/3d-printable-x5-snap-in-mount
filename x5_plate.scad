@@ -165,8 +165,10 @@ module x5_plate() {
 rotate([180, 0, 0]) union() {
     translate([0, -9, -2]) beam_clip();
     translate([-50.5, -10, 3.5]) x5_plate();
-}
 
 if ( show_openbeam_profile ) {
     rotate([0, 90, 180]) translate([5, 0, 0]) openbeam();
 }
+}
+
+
