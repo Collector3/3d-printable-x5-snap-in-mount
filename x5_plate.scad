@@ -141,7 +141,7 @@ module x5_plate() {
             if ( rigid_material ) {
                 cube([101, .5, 6], center=true);
             } else {
-                cube([101, 1.5, 4.5], center=true);
+                cube([101, 1, 4.5], center=true);
             }
         }        
         
@@ -151,7 +151,7 @@ module x5_plate() {
             if ( rigid_material ) {
                 cube([101, .5, 6], center=true);
             } else {
-                cube([101, 1.5, 4.5], center=true);
+                cube([101, 1, 4.5], center=true);
             }
         }
         
