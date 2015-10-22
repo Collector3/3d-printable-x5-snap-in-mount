@@ -4,9 +4,13 @@ There are several sets of holes for mounting the board more toward the back or f
 Support should not be necessary, as the overhang for the snap in is very small.
 The OpenBeam extrusion reference used to make this (openbeam.dxf in OpenSCAD source) can be found here: http://www.thingiverse.com/thing:100960/#files
 
-Bill of materials
+Bill of materials & Instrucions
 
 - PLA/ABS
+- 4x of the following
+  -  M3x8mm SHCS
+  -  Washers
+- 8x hex nuts
 
 Screw stack-up from bottom-up:
 - M3 x 8mm SHCS (pressed in) 
