@@ -1,4 +1,4 @@
-# Azteeg X5 mini snap in plate for Kossel Pro
+# Azteeg X5 mini v1.1 snap in plate for Kossel Pro
 
 There are several sets of holes for mounting the board more toward the back or front. Choose the mounting setup that fits your needs/desires. Additionally, play with the OpenSCAD source to make it work for you.
 Support should not be necessary, as the overhang for the snap in is very small.
